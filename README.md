@@ -67,19 +67,6 @@ The project contains examples of:
 - Oracle Database Express Edition 10g
 - DBMS concepts
 
-## Repository Structure
-
-
-Event-Management-System-DBMS/
-│
-├── README.md
-├── Event_Management_System_DBMS_Project.pdf
-├── schema.sql
-├── insert_data.sql
-├── queries.md
-├── normalization.md
-├── relational_algebra.md
-└── er_diagram.png
 
 ## Team Members
 
